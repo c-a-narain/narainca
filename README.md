@@ -8,7 +8,8 @@ I am a Junior Bachelor of Engineering student from the down south of Indian peni
 
 *   🌍  I'm based in Nagercoil
 *   ✉️  You can contact me at [c.a.narain2002@gmail.com](mailto:c.a.narain2002@gmail.com)
-*   🧠  I'm learning Flutter framework to build some projects<a href="https://www.twitter.com/narain_c_a" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Flutter framework to build some projects <br><br>
+<a href="https://www.twitter.com/narain_c_a" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/narain_c_a?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
                 <h2>Skills</h2>
