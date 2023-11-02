@@ -1,14 +1,14 @@
 Hi 👋 My name is Narain C A
 ===========================
 
-Student || Budding Dev
+Software Developer
 ----------------------
 
-I am a Junior Bachelor of Engineering student from the down south of Indian peninsula's main land. Simply bussiness minded, planned to execute a lot...
+Holding a Bachelor of Engineering Degree in Computer Science...
 
 *   🌍  I'm based in Nagercoil
 *   ✉️  You can contact me at [c.a.narain2002@gmail.com](mailto:c.a.narain2002@gmail.com)
-*   🧠  I'm learning Flutter framework to build some projects <br><br>
+*   🧠  Learning Spring, Spring Boot, Hibernate, Reactjs, SmartGWT etc <br><br>
 <a href="https://www.twitter.com/narain_c_a" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/narain_c_a?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
